@@ -1,0 +1,8 @@
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="nav-toggler">
+<rect id="Rectangle 1" width="40" height="40" fill="#C4C4C4"/>
+<line id="line-bottom" x1="6" y1="29" x2="34" y2="29" stroke="black" stroke-width="2" stroke-linecap="round"/>
+<line id="line-middle" x1="6" y1="19" x2="34" y2="19" stroke="black" stroke-width="2" stroke-linecap="round"/>
+<line id="line-top" x1="6" y1="9" x2="34" y2="9" stroke="black" stroke-width="2" stroke-linecap="round"/>
+</g>
+</svg>
